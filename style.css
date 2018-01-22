@@ -1,0 +1,36 @@
+
+body{
+font-family: Verdana;
+color:black;
+background-image: url(background.jpg);
+background-size:cover;
+text-align:center;
+ margin: 0 350px 0  350px;
+    
+}
+
+#nasil{
+    
+}
+
+.malzemelr {
+    
+    
+}
+
+
+img {
+    margin-left:outo;
+    margin-right: outo;
+    display:block;
+    width: auto;
+    
+}
+
+.yazi
+{
+    
+    width: 600px;
+    margin:auto;
+    text-align: justify;
+}
